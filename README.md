@@ -1,4 +1,4 @@
-# dataTableExample
+# DataTables With Django
 
 A simple Django Application to demonstrate how datatables can be used within a Django Project.
 
@@ -15,4 +15,4 @@ It also provides search functionality.
 
 ![alt tag](https://github.com/nikssardana/dataTableExample/blob/master/dataTablesSearch.png)
 
-Read more at https://datatables.net
+Read more at <a href="https://datatables.net" target="_blank">https://datatables.net</a>
