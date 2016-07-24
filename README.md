@@ -14,4 +14,6 @@ It also provides search functionality:
 
 ![alt tag](https://github.com/nikssardana/dataTableExample/blob/master/dataTablesSearch.png)
 
-Read more at https://datatables.net
+Full Description is available at: https://www.sugeek.net/bootstrap-datatables-with-django/
+
+Read more about datatables at https://datatables.net
