@@ -6,12 +6,11 @@ Datatables is a jquery plugin that adds more functionality to your html tables. 
 
 ![alt tag](https://github.com/nikssardana/dataTableExample/blob/master/dataTables.png)
 
-You can sort (ascending or descending) just by clicking on a column heading
+You can sort (ascending or descending) just by clicking on a column heading (Name column here):
 
 ![alt tag](https://github.com/nikssardana/dataTableExample/blob/master/dataTables%20ReverseSortByRoll.png)
 
-It also provides search functionality.
-
+It also provides search functionality:
 
 ![alt tag](https://github.com/nikssardana/dataTableExample/blob/master/dataTablesSearch.png)
 
